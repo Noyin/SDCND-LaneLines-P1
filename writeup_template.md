@@ -62,6 +62,12 @@ Finally, the output image from the hough transform and the original image are co
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by storing x and y coordinates of lines according to their slopes.Theses values are then used to calculate slopes and centers of the left and right lane which in turn is used to calculate the coordinates to draw the left and right lane lines.
 
 
+
+
+
+
+
+
 Below are the original and processed images from test_images folder
 
 ![alt text][image13] ![alt text][image7]
