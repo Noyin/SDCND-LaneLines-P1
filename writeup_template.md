@@ -2,7 +2,7 @@
 
 [//]: # (Image References)
 
-[image1]: ./sample/gray.jpg= "gray_sample"
+[image1]: ./sample/gray.jpg "gray_sample"
 [image2]: ./sample/gaussian_blur.jpg "gaussian_blur_sample"
 [image3]: ./sample/canny_transform.jpg "canny_transform_sample"
 [image4]: ./sample/mask.jpg "mask_sample"
